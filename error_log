@@ -1,0 +1,34 @@
+[24-Jun-2018 23:01:28 GMT] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting function (T_FUNCTION) in /home/tifrach/public_html/protected/models/FormsPages.php on line 24
+[24-Jun-2018 23:20:44 GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/tifrach/public_html/protected/modules/billing/views/index/_tab.php on line 50
+[24-Jun-2018 23:28:20 GMT] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/tifrach/public_html/protected/modules/billing/views/index/_tab.php on line 44
+[22-Jul-2018 23:36:45 GMT] PHP Fatal error:  Call to a member function getFieldsNames() on null in /home/tifrach/public_html/protected/modules/patients/views/form/list.php on line 76
+[26-Oct-2020 21:06:18 GMT] PHP Fatal error:  Call to a member function getFullName() on null in /home/tifrach/public_html/protected/views/form_templates/_cse.php on line 132
+[26-Oct-2020 21:06:43 GMT] PHP Fatal error:  Call to a member function getFullName() on null in /home/tifrach/public_html/protected/views/form_templates/_cse.php on line 132
+[26-Nov-2020 10:10:39 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[26-Nov-2020 14:48:31 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[26-Nov-2020 14:49:57 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[26-Nov-2020 15:18:59 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 07:29:22 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 07:47:06 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 07:57:41 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 08:06:21 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 09:02:32 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 09:15:09 GMT] PHP Parse error:  syntax error, unexpected '<' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 824
+[27-Nov-2020 09:15:12 GMT] PHP Parse error:  syntax error, unexpected '<' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 824
+[27-Nov-2020 11:12:41 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 11:54:39 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 12:04:33 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 12:54:35 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 13:45:34 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 13:47:35 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 13:55:00 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:01 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:07 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:10 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:12 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:14 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:15 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 13:55:18 GMT] PHP Parse error:  syntax error, unexpected '}' in /home/tifrach/public_html/protected/models/FormsEntities.php on line 762
+[27-Nov-2020 14:03:52 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 14:29:02 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131
+[27-Nov-2020 14:53:15 GMT] PHP Fatal error:  Class 'FormsEntities' not found in /home/tifrach/public_html/protected/modules/billing/controllers/IndexController.php on line 131

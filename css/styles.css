@@ -1,0 +1,443 @@
+html,body{
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#container{
+	min-height: 100%;
+	margin: 0 20px;
+	min-width: 800px;
+}
+	#nav_placeholder{
+		height: 40px;
+		margin-bottom: 20px;
+	}
+	#page{
+		width: 1000px;
+		margin: 0 auto;
+	}
+		#page.full-width{
+			width: 96%;
+		}
+	#space{
+		height: 60px;
+	}
+footer{
+	margin-top: -60px;
+	height: 60px;
+	text-align: center;
+}
+
+.tab-pane{
+	position: relative;
+}
+
+#content_overlay{
+	height: 100%;
+	width:100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background: url(../img/content-loader.gif) no-repeat center center #FFF;
+	opacity: 0.5;
+}
+
+
+/** Login page styles **/
+
+#login{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	margin-top: -225px;
+	margin-left: -180px;
+	width:360px;
+}
+.form-signin {
+	background-color: #F5F5F5;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+	border-radius: 5px 5px 5px 5px;
+	margin: 0 auto 20px;
+	max-width: 300px;
+	padding: 19px 29px 29px;
+}
+
+/******* Different common styles *******/
+
+h3 .pull-right{
+	margin-top: 0.5em;
+}
+.text-center{
+	text-align: center !important;
+}
+
+
+/******* Forms elements styles *******/
+
+td.textarea { max-width: 300px;}
+.grid-view .filters  .date input.span1{
+	width: 80px;
+}
+.groups-list{
+	max-height: 300px;
+	overflow-y: auto;
+}
+	.groups-list .checkbox{
+		width: 23.4043%;
+		float: left;
+	}
+
+.groups-list.infinity{
+	overflow-y:visible;
+}
+
+.form-horizontal  .in-row .control-group{
+    display: inline-block;
+    float: left;
+    margin: 0 10px 20px;
+}
+
+.form-horizontal .in-row .control-label {
+    float: none;
+    text-align: left;
+    width: auto;
+}
+
+.form-horizontal .in-row .controls {
+    margin-left: 0;
+}
+.form-horizontal .in-row  span.error{
+	display: block;
+}
+
+
+/** Compacted search form styles **/
+.search-form.compacted .row{
+	margin: 10px 0 10px -10px;
+}
+.search-form.compacted label{
+	display: none;
+}
+.search-form.compacted input,.search-form.compacted select{
+	margin-left: 10px;
+}
+.search-form.compacted .form-actions{
+	margin: 5px;
+	padding: 5px;
+}
+/*.search-form.compacted + .pull-right{
+	margin: 10px 0;
+}*/
+.search-form.compacted + .pull-right + .grid-view{
+	clear: both;
+}
+.form-actions{
+	padding-bottom: 10px !important;
+	padding-top: 9px !important;
+}
+.search-form.compacted.one-row  .row > *{
+	margin: 0 10px 10px !important;
+
+}
+.search-form.compacted .select2-container{
+	margin-left: 0 !important;
+}
+.search-form .row{
+    margin: 0 0 20px 0;
+}
+.search-form.compacted{
+    position: relative;
+}
+.compacted .form-actions,.compacted.form-actions{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.search-form.compacted .pull-right{
+    margin-top: -60px;
+    margin-right: 20px;
+}
+    .search-form.compacted .pull-right .btn{
+        margin-left: 5px;
+    }
+
+.controls .control-group{
+	float: left;
+}
+.controls .control-group .controls{
+	float: none;
+	margin: 0;
+}
+	.controls .control-group .control-label{
+		display: block;
+		float: none;
+		text-align: left;
+	}
+
+/**** FormFields ***/
+.form-row{
+	margin: 10px 0;
+}
+.form-row input{
+	margin-top: 0px !important;
+}
+.ui-sortable .form-row{
+	width: 85%;
+	padding-left: 10px;
+}
+	.ui-sortable .form-row i.icon-resize-vertical{
+		display: none;
+		float: right;
+		margin-right: 1em;
+		margin-top: 0.5em; 
+	}
+	.ui-sortable .form-row:hover{
+		background: #F5F5F5;
+		cursor: pointer;
+	}
+	.ui-sortable .form-row.ui-sortable-helper{
+		background: #EEEEEE;
+	}
+.ui-sortable .form-row:hover i.icon-resize-vertical{
+	display: block;
+}
+#rules {
+	padding-left: 30px;
+}
+/**Fill form page elements style **/
+.fill-form #tabs{
+	position: relative;
+}
+.fill-form .control-label{
+	font-weight: bold;
+}
+.elements-wrap{
+	margin-top: 10px;
+}
+.fill-form .help-inline{
+	display: block;
+}
+/******* Modal Dialog styles *******/
+
+.modal.wide{
+	width:850px;
+	margin-left: -425px;
+	margin-top: -300px;
+}
+.modal.wide .modal-body{
+	max-height: 450px !important;
+}
+#modal_dlg form{
+	margin-bottom: 0px !important;
+	position: relative;
+}
+
+
+.js .js-hide{ display: none;}
+
+.modal.width-960 { width: 960px; margin-left: -480px;}
+.modal-body .form-actions {display:  none }
+
+/*#modal_dlg ul#tabs{
+	position: absolute;
+	top: 59px;
+	padding-top: 11px;
+	width: 95%;
+	background: #FFF;
+	z-index: 100;
+}
+#modal_dlg ul#tabs +  .tab-content{
+	padding-top:40px; 
+}*/
+
+/******** Widget styles********/
+.sidebar{
+	padding-top: 40px;
+}
+.widget{
+	margin: 0 5px 10px;
+	border: 1px solid #DDD;
+	border-radius: 5px;
+	min-height: 150px;
+	position: relative;
+	box-shadow: 0 3px 10px #CCC;
+}
+.widget .widget-title{
+	position: absolute;
+	top: -1.2em;
+	background: #FFF;
+	padding: 0 5px;
+	margin-left: 10px;
+}
+
+.scrollbox{
+	overflow-x: auto;
+}
+.widget.patient-files{
+	padding-top: 10px;
+	padding-bottom: 40px;
+	
+}
+	.widget.patient-files .buttons{
+		position: absolute;
+		bottom: 0px;
+		width:96%;
+		border-top: 1px solid #DDD;
+		margin: 0 2%;
+		padding: 5px 0;
+	}
+	.file-list{
+		padding: 0;
+		margin: 0;
+		list-style: none;
+	}
+	.file-list li{
+		display: inline-block;
+		margin: 5px;
+		vertical-align: top;
+		position:relative;
+	}
+	.no-files{
+		display: block !important;
+		vertical-align: middle;
+		height: 200px;
+		line-height: 200px;
+		text-align: center;
+		
+	}
+	.widget.patient-files .scrollbox{
+		margin: 0 0 0 5px;
+		max-height: 400px;
+	}
+	.file-list li .delete-file{
+		display: none;
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		z-index:100;
+		color: #D70000 !important;
+		text-decoration:none;
+	}
+	.file-list li:hover .delete-file{
+		display: block;
+	}
+.file-icon{
+	display: block;
+	padding-top: 40px;
+	background: url(../img/icons/pdf.png) no-repeat center top;
+	width: 80px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 11px;
+	word-wrap: break-word;
+}
+	.file-icon.zip{
+		background-image: url(../img/icons/zip.png);
+	}
+	.file-icon.rar{
+		background-image: url(../img/icons/rar.png);
+	}
+	.file-icon.png{
+		background-image: url(../img/icons/png.png);
+	}
+	.file-icon.jpg,.file-icon.jpeg{
+		background-image: url(../img/icons/jpg.png);
+	}
+	.file-icon.gif{
+		background-image: url(../img/icons/gif.png);
+	}
+	.file-icon.doc{
+		background-image: url(../img/icons/doc.png);
+	}
+	.file-icon.docx{
+		background-image: url(../img/icons/docx.png);
+	}
+	.file-icon.xls{
+		background-image: url(../img/icons/xls.png);
+	}
+	.file-icon.xlsx{
+		background-image: url(../img/icons/xlsx.png);
+	}
+
+.grid-view  th{
+    font-size: 0.8em;
+}
+.grid-view .btn-toolbar{
+	margin: 0;
+}
+#user-grid.grid-view .button-column{
+	width: 150px;
+	position: relative;
+}
+
+.tooltip-inner {
+	white-space: nowrap;
+}
+.typeahead{ z-index: 9999;}
+
+/******* P A G E S    S T Y L E S *******/
+.page-patient-files{
+	margin-top: 35px;
+}
+	.page-patient-files .widget-title{
+		font-size: 24px;
+		top:-1em;
+	}
+	
+	.page-patient-files .widget.patient-files .scrollbox {
+		max-height: none;
+	}
+#report-wrapper{
+	width:750px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #CCC;
+	margin-bottom: 40px;
+}
+/***** PayRates *****/
+#rates-grid .button-column,#provider-grid .button-column{
+	min-width: 70px;
+}
+
+
+/*** FONT AWESOME CONFIGURATION ***/
+.button-column a,a.delete-value{
+    color: #333;
+    text-decoration: none !important;
+    padding-right: 4px;
+}
+
+
+/*** CALENDARS ***/
+.event-controls{
+	display: block;
+	text-align:  center;
+	height: 20px;
+	overflow: hidden;
+}
+.event-controls a,.event-controls a:visited{
+	color: #FFF;
+	text-decoration: none;
+}
+.event-controls a:hover{
+	color: #333;
+}
+.fulfilled{ display: inline-block;color: #FFF; padding: 5px; border-radius: 5px; margin: 5px; background-color: green;}
+
+/***** PRINTABLE TEMPLATES STYLES *****/
+.table .text-right{
+	text-align: right !important;
+}
+.table .text-left{
+	text-align: left !important;
+}
+
+@media screen and (max-width: 1115px) {
+	
+	#nav_placeholder{ height: 80px;}
+	#page{		width: auto;	}
+}
+@media screen and (max-width: 800px) {
+	
+	#nav_placeholder{ height: 120px;}
+	#page{ width: auto; }
+}

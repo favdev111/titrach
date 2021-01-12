@@ -1,0 +1,33 @@
+[02-Nov-2015 17:30:25 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 26
+[02-Nov-2015 17:30:25 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'tifrach'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 17:30:25 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 17:30:25 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpwpqvqh): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[02-Nov-2015 17:31:04 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 26
+[02-Nov-2015 17:31:04 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'tifrach'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 17:31:04 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 17:31:04 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpdm0qhw): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[02-Nov-2015 18:55:32 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 26
+[02-Nov-2015 18:55:32 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'tifrach'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 18:55:32 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 18:55:32 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpgnzbop): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[02-Nov-2015 19:35:36 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 26
+[02-Nov-2015 19:35:36 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'tifrach'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 19:35:36 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[02-Nov-2015 19:35:36 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpe6vrfp): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[02-Nov-2015 19:43:39 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpwsolkl): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[02-Nov-2015 19:45:59 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpze3cxl): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 36
+[05-Nov-2015 21:04:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tifrach/public_html/bill/batchbill2.php on line 252
+[05-Nov-2015 21:04:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tifrach/public_html/bill/batchbill2.php on line 252
+[09-Nov-2015 19:53:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'SED' (T_STRING) in /home/tifrach/public_html/bill/batchbill2.php on line 223
+[12-Nov-2015 20:59:52 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 26
+[12-Nov-2015 20:59:52 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'tifrach'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[12-Nov-2015 20:59:52 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[12-Nov-2015 20:59:52 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpsaszdi): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[12-Nov-2015 21:01:22 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpkswnf9): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[13-Dec-2015 21:39:53 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 26
+[13-Dec-2015 21:39:53 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'tifrach'@'localhost' (using password: NO) in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[13-Dec-2015 21:39:53 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/tifrach/public_html/bill/batchbill2.php on line 27
+[13-Dec-2015 21:39:53 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpcfxrl4): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[13-Dec-2015 21:40:50 America/Chicago] PHP Warning:  file_get_contents(/tmp/phpxdvmbm): failed to open stream: No such file or directory in /home/tifrach/public_html/bill/batchbill2.php on line 33
+[19-Dec-2015 23:10:47 America/Chicago] PHP Fatal error:  Function name must be a string in /home/tifrach/public_html/bill/batchbill3.php on line 118
+[19-Dec-2015 23:45:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/tifrach/public_html/bill/batchbill3.php on line 319
